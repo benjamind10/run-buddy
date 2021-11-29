@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, Inc.
 
 ## Purpose
 
@@ -16,3 +16,5 @@ https://benjamind10.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by benjamind10
+
+### ©️2019 Run Buddy, Inc
