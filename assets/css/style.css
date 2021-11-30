@@ -480,6 +480,10 @@ section {
   color: var(--primary-color);
 }
 
+.contact-form {
+  margin-right: 90px;
+}
+
 /* REACH OUT STYLES END */
 
 /* UTILITIES */
